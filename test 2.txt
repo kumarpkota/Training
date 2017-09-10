@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 No content
 adding new content on master
+=======
+adding content on new branch
+test rebase
+>>>>>>> new-test-branch
