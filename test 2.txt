@@ -6,3 +6,4 @@ adding content on new branch
 test rebase
 >>>>>>> new-test-branch
 adding new line in branch 2
+adding 2nd line 2nd branch 2
