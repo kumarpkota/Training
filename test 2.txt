@@ -5,3 +5,4 @@ adding new content on master
 adding content on new branch
 test rebase
 >>>>>>> new-test-branch
+adding new line in branch 2
